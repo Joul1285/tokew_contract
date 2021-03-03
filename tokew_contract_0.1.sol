@@ -8,7 +8,7 @@ import "./openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Burnabl
 import "./openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Pausable.sol";
 import "./openzeppelin-contracts/contracts/access/AccessControlEnumerable.sol";
 import "./openzeppelin-contracts/contracts/utils/Context.sol";
-import "./openzeppelin-contracts/contracts/utils/Counters.sol";
+import "https://github.com/Joul1285/tokew_contract/blob/main/openzeppelin-contracts/contracts/utils/Counters.sol";
 
 /**
  * @dev {ERC721} token, including:
